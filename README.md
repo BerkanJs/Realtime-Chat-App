@@ -108,11 +108,6 @@ This application is split into two parts:
 - **mongoose**: A MongoDB ODM for easier database interactions.
 - **socket.io**: For enabling real-time communication between the server and clients.
 
----
-
-## 🔒 License
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ---
 
